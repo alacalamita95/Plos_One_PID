@@ -1,5 +1,5 @@
-Unveiling Complex Patterns: An Information-Theoretic Approach to High-Order Behaviors in Microarray Data
-Lacalamita et al.
+#Unveiling Complex Patterns: An Information-Theoretic Approach to High-Order Behaviors in Microarray Data
+##Lacalamita et al.
 
 This is a codebase behind the analysis of the paper.
 There are two different code examples regarding two different communities: one for HCC and one for ASD.
